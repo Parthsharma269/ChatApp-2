@@ -214,6 +214,7 @@
     color: #ffffff;
     border: 1px solid #ffffff;
     border: none;
+    cursor: pointer;
 }
 
 .btn2 {
@@ -223,6 +224,7 @@
     color: #ffffff;
     border: 1px solid #ffffff;
     border: none;
+    cursor: pointer;
 }
 
 .btn3 {
@@ -232,6 +234,7 @@
     color: #ffffff;
     border: 1px solid #ffffff !important;
     border: none;
+    cursor: pointer;
 }
 
 .btn4 {
@@ -241,6 +244,7 @@
     color: #ffffff;
     border: 1px solid #ffffff;
     border: none;
+    cursor: pointer;
 }
 
 
@@ -251,6 +255,7 @@
     color: #ffffff;
     border: 1px solid #1E71FF !important;
     border: none;
+    cursor: pointer;
 }
 
 .gap-1 {
@@ -340,63 +345,6 @@
     max-width: 555px;
 }
 
-.my-a {
-    margin-left: auto;
-    margin-right: auto;
-}
-
-.gap-4 {
-    gap: 40px 40px;
-    justify-content: center;
-    padding-left: 250px;
-}
-
-.pl-141 {
-    padding-left: 95px;
-    padding-right: 500px;
-}
-
-.pl-190 {
-    padding-left: 190px;
-}
-
-.width {
-    max-width: 660px;
-    height: 400px;
-    padding-left: 190px;
-}
-
-.pt-90 {
-    padding-top: 95px;
-}
-
-.pt-42 {
-    padding-top: 50px;
-    padding-left: 55px;
-    padding-bottom: 50px;
-    gap: 50px;
-}
-
-.mt-90 {
-    margin-top: 90px;
-}
-
-.mb-20 {
-    margin-bottom: 20px;
-}
-
-.mb-12 {
-    margin-bottom: 12px;
-}
-
-.pt-12 {
-    padding-top: 12px;
-}
-
-.pt-166 {
-    padding-top: 166px;
-}
-
 .text-color3 {
     color: #6B7278;
 }
@@ -412,41 +360,6 @@
 
 .transform {
     transform: translate(400px, -63px);
-}
-
-@media (max-width:320px) {
-    .col-md-12 {
-        width: 100%;
-        padding-left: 12px;
-        padding-right: 12px;
-    }
-}
-
-@media (max-width:768px) {
-    .col-sm-12 {
-        width: 100%;
-        padding-left: 12px;
-        padding-right: 12px;
-    }
-
-    .pt-50 {
-        padding-top: 50px;
-    }
-
-    .mt50 {
-        margin-top: 50px;
-    }
-
-    .col-sm-6 {
-        width: 50%;
-        padding-left: 12px;
-        padding-right: 12px;
-    }
-
-    .d-col {
-        display: flex;
-        flex-direction: column;
-    }
 }
 
 @media (max-width:992px) {
@@ -478,12 +391,6 @@
 
     input[type="checkbox"]:checked+.mobile-view {
         right: 0;
-    }
-
-    .col-lg-12 {
-        width: 100%;
-        padding-left: 12px;
-        padding-right: 12px;
     }
 
 }

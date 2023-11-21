@@ -2,3 +2,5 @@ CSS utility classes and meaningful name for the classes
 fully responsive page without bootstrap
 using css root variables
 page submition at 12pm - 21nov.
+
+page submition at 1pm - 22nov.
