@@ -414,14 +414,6 @@
     transform: translate(400px, -63px);
 }
 
-@media (max-width:992px) {
-    .col-lg-12 {
-        width: 100%;
-        padding-left: 12px;
-        padding-right: 12px;
-    }
-}
-
 @media (max-width:320px) {
     .col-md-12 {
         width: 100%;
@@ -486,6 +478,12 @@
 
     input[type="checkbox"]:checked+.mobile-view {
         right: 0;
+    }
+
+    .col-lg-12 {
+        width: 100%;
+        padding-left: 12px;
+        padding-right: 12px;
     }
 
 }
