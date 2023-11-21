@@ -230,7 +230,7 @@
     padding: 11px 28px;
     background-color: #1E71FF;
     color: #ffffff;
-    border: 1px solid #ffffff;
+    border: 1px solid #ffffff !important;
     border: none;
 }
 
@@ -239,7 +239,7 @@
     padding: 11px 28px;
     background-color: #1E71FF;
     color: #ffffff;
-    border: 2px solid #ffffff;
+    border: 1px solid #ffffff;
     border: none;
 }
 
@@ -249,7 +249,7 @@
     padding: 11px 28px;
     background-color: #E8F1FF;
     color: #ffffff;
-    border: 1px solid #1E71FF;
+    border: 1px solid #1E71FF !important;
     border: none;
 }
 
@@ -279,18 +279,10 @@
     color: #1E71FF;
 }
 
-.font4 {
-    color: #1E71FF;
-}
-
 .font5 {
     max-width: 499px;
     color: #ffffff;
     padding-top: 290px;
-}
-
-.font6 {
-    color: #FFF;
 }
 
 .font-7 {
