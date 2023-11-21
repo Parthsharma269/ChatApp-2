@@ -287,9 +287,6 @@
 
 .font6 {
     color: #FFF;
-    font-family: "Roboto", sans-serif;
-    font-size: 21px;
-    font-weight: 400;
 }
 
 .font-7 {
@@ -344,9 +341,6 @@
 .paragraph {
     color: #2b353eb3;
     text-align: center;
-    font-family: "Roboto", sans-serif;
-    font-size: 18px;
-    font-weight: 400;
     max-width: 555px;
 }
 
