@@ -405,6 +405,11 @@
     color: #6B7278;
 }
 
+.position-absloute {
+    position: absolute;
+    left: -12px;
+}
+
 @media (max-width:992px) {
     .col-lg-12 {
         width: 100%;
