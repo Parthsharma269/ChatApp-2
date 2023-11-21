@@ -222,6 +222,7 @@
     background-color: #FFFFFF;
     color: #ffffff;
     border: 1px solid #ffffff;
+    border: none;
 }
 
 .btn3 {
@@ -230,6 +231,7 @@
     background-color: #1E71FF;
     color: #ffffff;
     border: 1px solid #ffffff;
+    border: none;
 }
 
 .btn4 {
@@ -238,6 +240,7 @@
     background-color: #1E71FF;
     color: #ffffff;
     border: 2px solid #ffffff;
+    border: none;
 }
 
 
@@ -247,6 +250,7 @@
     background-color: #E8F1FF;
     color: #ffffff;
     border: 1px solid #1E71FF;
+    border: none;
 }
 
 .gap-1 {
