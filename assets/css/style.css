@@ -405,6 +405,10 @@
     color: #6B7278;
 }
 
+.overflow {
+    overflow: hidden;
+}
+
 .position-absloute {
     position: absolute;
     left: -12px;
