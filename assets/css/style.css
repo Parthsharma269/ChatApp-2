@@ -143,6 +143,11 @@
     margin-bottom: 160px;
 }
 
+.py-35 {
+    padding-top: 35px;
+    padding-bottom: 35px;
+}
+
 .pb-370 {
     padding-bottom: 370px;
 }
@@ -469,12 +474,6 @@
     }
 }
 
-@media (max-width:576px) {
-    .col-md-12 {
-        width: 100% !important;
-    }
-}
-
 @media (min-width:576px) {
     .transform {
         transform: translate(0%, 0%);
@@ -520,13 +519,5 @@
 @media (min-width:320px) {
     .transform {
         transform: translate(0%, 0%);
-    }
-
-    .fs-16 {
-        font-size: 15px;
-    }
-
-    .fs-17 {
-        font-size: 15px;
     }
 }
