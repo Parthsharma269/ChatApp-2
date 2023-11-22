@@ -255,6 +255,12 @@
     padding-left: 12px;
 }
 
+.col-12 {
+    width: 100%;
+    padding-right: 12px;
+    padding-left: 12px;
+}
+
 .d-flex {
     display: flex;
 }
