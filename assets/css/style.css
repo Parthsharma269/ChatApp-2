@@ -495,13 +495,13 @@
 
 @media (min-width:1400px) {
     .transform {
-        transform: translate(-15%, 0%);
+        transform: translate(-15%, 0%) !important;
     }
 }
 
 @media (min-width:1440px) {
     .transform {
-        transform: translate(-18%, 0%);
+        transform: translate(-18%, 0%) !important;
     }
 }
 
