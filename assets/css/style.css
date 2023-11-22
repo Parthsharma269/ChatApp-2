@@ -399,10 +399,6 @@
     .col-lg-6 {
         max-width: 50%;
     }
-
-    .transform {
-        transform: translate(-18%, 0%);
-    }
 }
 
 @media (max-width:992px) {
