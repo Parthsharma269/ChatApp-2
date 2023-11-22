@@ -458,4 +458,13 @@
     .w-100 {
         width: 100%;
     }
+
+    .position-absloute {
+        position: absolute;
+        left: -12px;
+    }
+
+    .transform {
+        transform: translate(107%, 0%);
+    }
 }
