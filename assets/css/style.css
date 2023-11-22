@@ -521,28 +521,4 @@
     .transform {
         transform: translate(0%, 0%);
     }
-
-    .fs-75 {
-        font-size: 54px;
-    }
-
-    .fs-21 {
-        font-size: 18px;
-    }
-
-    .fs-16 {
-        font-size: 15px;
-    }
-
-    .fs-45 {
-        font-size: 27px;
-    }
-
-    .fs-18 {
-        font-size: 13px;
-    }
-
-    .fs-17 {
-        font-size: 15px;
-    }
 }
