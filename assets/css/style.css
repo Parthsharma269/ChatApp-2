@@ -521,4 +521,12 @@
     .transform {
         transform: translate(0%, 0%);
     }
+
+    .fs-16 {
+        font-size: 15px;
+    }
+
+    .fs-17 {
+        font-size: 15px;
+    }
 }
