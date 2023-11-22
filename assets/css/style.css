@@ -397,7 +397,7 @@
 }
 
 .transform {
-    transform: translate(107%, 0%);
+    transform: translate(107%, -4%);
 }
 
 @media (max-width:992px) {
