@@ -391,13 +391,18 @@
     overflow: hidden;
 }
 
-.position-absloute {
-    position: absolute;
-    left: -12px;
+.transform {
+    transform: translate(-18%, 0%);
 }
 
-.transform {
-    transform: translate(107%, -4%);
+@media (min-width:992px) {
+    .col-lg-6 {
+        max-width: 50%;
+    }
+
+    .transform {
+        transform: translate(-18%, 0%);
+    }
 }
 
 @media (max-width:992px) {
