@@ -411,6 +411,14 @@
     .transform {
         transform: translate(-18%, 0%);
     }
+
+    :root {
+
+        /* font-size  */
+        .fs-75 {
+            font-size: 48px;
+        }
+    }
 }
 
 @media (max-width:992px) {
@@ -477,6 +485,22 @@
     .transform {
         transform: translate(0%, 0%);
     }
+
+    :root {
+
+        /* font-size  */
+        .fs-75 {
+            font-size: 48px;
+        }
+
+        .fs-45 {
+            font-size: 30px;
+        }
+
+        .fs-18 {
+            font-size: 15px;
+        }
+    }
 }
 
 @media (min-width:756px) {
@@ -488,6 +512,22 @@
 @media (min-width:1200px) {
     .transform {
         transform: translate(0%, 0%);
+    }
+
+    :root {
+
+        /* font-size  */
+        .fs-75 {
+            font-size: 75px;
+        }
+
+        .fs-45 {
+            font-size: 45px;
+        }
+
+        .fs-18 {
+            font-size: 18px;
+        }
     }
 }
 
@@ -513,11 +553,43 @@
     .pt-253 {
         padding-top: 100px !important;
     }
+
+    :root {
+
+        /* font-size  */
+        .fs-75 {
+            font-size: 75px !important;
+        }
+
+        .fs-45 {
+            font-size: 45px !important;
+        }
+
+        .fs-18 {
+            font-size: 18px !important;
+        }
+    }
 }
 
 @media (min-width:500px) {
     .transform {
         transform: translate(0%, 0%);
+    }
+
+    :root {
+
+        /* font-size  */
+        .fs-75 {
+            font-size: 46px;
+        }
+
+        .fs-45 {
+            font-size: 25px;
+        }
+
+        .fs-18 {
+            font-size: 12px;
+        }
     }
 }
 
@@ -525,10 +597,78 @@
     .transform {
         transform: translate(0%, 0%);
     }
+
+    :root {
+
+        /* font-size  */
+        .fs-75 {
+            font-size: 36px;
+        }
+
+        .fs-45 {
+            font-size: 20px;
+        }
+
+        .fs-18 {
+            font-size: 8px;
+        }
+    }
 }
 
 @media (min-width:320px) {
     .transform {
-        transform: translate(1%, 0%);
+        transform: translate(0%, 0%);
+    }
+
+    .pb-370 {
+        padding-bottom: 31px;
+    }
+
+    .pb-209 {
+        padding-bottom: 100px;
+    }
+
+    .pt-166 {
+        padding-top: 100px;
+    }
+
+    .pt-90 {
+        padding-top: 50px;
+    }
+
+    .pt-253 {
+        padding-top: 100px;
+    }
+
+    .pb-30 {
+        padding-bottom: 50px;
+    }
+
+    :root {
+
+        /* font-size  */
+        .fs-75 {
+            font-size: 29px;
+        }
+
+        .fs-21 {
+            font-size: 18px;
+        }
+
+        .fs-16 {
+            font-size: 15px;
+        }
+
+        .fs-45 {
+            font-size: 27px;
+        }
+
+        .fs-18 {
+            font-size: 10px;
+        }
+
+        .fs-17 {
+            font-size: 15px;
+        }
     }
 }
