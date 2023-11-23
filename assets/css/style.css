@@ -341,6 +341,12 @@
 
 .li {
     color: #FFF;
+    cursor: pointer;
+}
+
+.li-2 {
+    color: #6B7278;
+    cursor: pointer;
 }
 
 .font1 {
